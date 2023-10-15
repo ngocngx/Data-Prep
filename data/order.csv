@@ -1,0 +1,187 @@
+,Mã đơn hàng,Tình trạng thanh toán,Tổng tiền,Tổng cộng,Số lượng sản phẩm,Tên sản phẩm,Giá sản phẩm,Phương thức thanh toán
+0,#100069,Đã thanh toán,3600000,3600000,6,Pop 1,600000,Chuyển khoản qua ngân hàng
+1,#100068,Chờ xử lý,10249200,10249200,6,EM2,584000,Chuyển khoản qua ngân hàng
+2,#100068,Chờ xử lý,10249200,10249200,6,Pop 2,569400,Chuyển khoản qua ngân hàng
+3,#100068,Chờ xử lý,10249200,10249200,6,Pop 3,554800,Chuyển khoản qua ngân hàng
+4,#100067,Đã thanh toán,3420000,3420000,6,Pop 3,570000,Chuyển khoản qua ngân hàng
+5,#100066,Đã thanh toán,3510000,3510000,6,Pop 2,585000,Chuyển khoản qua ngân hàng
+6,#100065,Chờ xử lý,1340000,1340000,2,EM2,670000,Chuyển khoản qua ngân hàng
+7,#100064,Chờ xử lý,2786000,2786000,2,Chuối Bio,57000,Chuyển khoản qua ngân hàng
+8,#100064,Chờ xử lý,2786000,2786000,2,Lê Bio,57000,Chuyển khoản qua ngân hàng
+9,#100064,Chờ xử lý,2786000,2786000,4,Táo Bio,57000,Chuyển khoản qua ngân hàng
+10,#100064,Chờ xử lý,2786000,2786000,5,Đào Bio,57000,Chuyển khoản qua ngân hàng
+11,#100064,Chờ xử lý,2786000,2786000,8,Xoài Bio,57000,Chuyển khoản qua ngân hàng
+12,#100064,Chờ xử lý,2786000,2786000,5,Cherry -,57000,Chuyển khoản qua ngân hàng
+13,#100064,Chờ xử lý,2786000,2786000,5,Cà chua,57000,Chuyển khoản qua ngân hàng
+14,#100064,Chờ xử lý,2786000,2786000,5,Ngô ngọt,57000,Chuyển khoản qua ngân hàng
+15,#100064,Chờ xử lý,2786000,2786000,3,củ dền,57000,Chuyển khoản qua ngân hàng
+16,#100064,Chờ xử lý,2786000,2786000,4,Nấm Bio,57000,Chuyển khoản qua ngân hàng
+17,#100064,Chờ xử lý,2786000,2786000,5,Cá tuyết,67000,Chuyển khoản qua ngân hàng
+18,#100063,Đã thanh toán,800000,800000,1,Pop 1,800000,Thanh toán khi giao hàng (COD)
+19,#100062,Chờ xử lý,8980000,8980000,8,Pop 2,650000,Chuyển khoản qua ngân hàng
+20,#100062,Chờ xử lý,8980000,8980000,6,Pop 3,630000,Chuyển khoản qua ngân hàng
+21,#100061,Đã thanh toán,4380000,4380000,6,Pop 2,730000,Thanh toán khi giao hàng (COD)
+22,#100060,Chờ xử lý,2900000,2900000,2,Chuối Bio,57000,Chuyển khoản qua ngân hàng
+23,#100060,Chờ xử lý,2900000,2900000,2,Lê Bio,57000,Chuyển khoản qua ngân hàng
+24,#100060,Chờ xử lý,2900000,2900000,4,Táo Bio,57000,Chuyển khoản qua ngân hàng
+25,#100060,Chờ xử lý,2900000,2900000,5,Đào Bio,57000,Chuyển khoản qua ngân hàng
+26,#100060,Chờ xử lý,2900000,2900000,8,Xoài Bio,57000,Chuyển khoản qua ngân hàng
+27,#100060,Chờ xử lý,2900000,2900000,5,Cherry -,57000,Chuyển khoản qua ngân hàng
+28,#100060,Chờ xử lý,2900000,2900000,5,Cà chua,57000,Chuyển khoản qua ngân hàng
+29,#100060,Chờ xử lý,2900000,2900000,7,Ngô ngọt,57000,Chuyển khoản qua ngân hàng
+30,#100060,Chờ xử lý,2900000,2900000,3,củ dền,57000,Chuyển khoản qua ngân hàng
+31,#100060,Chờ xử lý,2900000,2900000,4,Nấm Bio,57000,Chuyển khoản qua ngân hàng
+32,#100060,Chờ xử lý,2900000,2900000,5,Cá tuyết,67000,Chuyển khoản qua ngân hàng
+33,#100056,Đã thanh toán,2520000,2520000,4,EM3,630000,Thanh toán khi giao hàng (COD)
+34,#100055,Đã thanh toán,1600000,1600000,2,EM3,800000,Thanh toán khi giao hàng (COD)
+35,#100054,Đã thanh toán,800000,800000,1,EM1,800000,Thanh toán khi giao hàng (COD)
+36,#100053,Đã thanh toán,650000,650000,1,EM3,650000,Thanh toán khi giao hàng (COD)
+37,#100052,Đã thanh toán,750000,750000,1,Pop 1,750000,Thanh toán khi giao hàng (COD)
+38,#100051,Chờ xử lý,3900000,3900000,6,EM3,650000,Chuyển khoản qua ngân hàng
+39,#100050,Chờ xử lý,3600000,3600000,6,EM1,600000,Chuyển khoản qua ngân hàng
+40,#100049,Chờ xử lý,3250000,3250000,5,EM2,650000,Chuyển khoản qua ngân hàng
+41,#100048,Đã thanh toán,2600000,2600000,4,Pop 2,650000,Chuyển khoản qua ngân hàng
+42,#100047,Đã thanh toán,3780000,3780000,6,Pop 3,630000,Chuyển khoản qua ngân hàng
+43,#100046,Đã thanh toán,1800000,1800000,3,EM1,600000,Chuyển khoản qua ngân hàng
+44,#100045,Đã thanh toán,3600000,3600000,6,Pop 1,600000,Chuyển khoản qua ngân hàng
+45,#100044,Chờ xử lý,5957000,5957000,7,Chuối Bio,57000,Thanh toán khi giao hàng (COD)
+46,#100044,Chờ xử lý,5957000,5957000,7,Lê Bio,57000,Thanh toán khi giao hàng (COD)
+47,#100044,Chờ xử lý,5957000,5957000,7,Táo Bio,57000,Thanh toán khi giao hàng (COD)
+48,#100044,Chờ xử lý,5957000,5957000,5,Xoài Bio,57000,Thanh toán khi giao hàng (COD)
+49,#100044,Chờ xử lý,5957000,5957000,5,Đào Bio,57000,Thanh toán khi giao hàng (COD)
+50,#100044,Chờ xử lý,5957000,5957000,5,Cherry -,57000,Thanh toán khi giao hàng (COD)
+51,#100044,Chờ xử lý,5957000,5957000,3,Phúc bồn,57000,Thanh toán khi giao hàng (COD)
+52,#100044,Chờ xử lý,5957000,5957000,10,Sung nghiền,57000,Thanh toán khi giao hàng (COD)
+53,#100044,Chờ xử lý,5957000,5957000,7,Mơ nghiền,57000,Thanh toán khi giao hàng (COD)
+54,#100044,Chờ xử lý,5957000,5957000,5,Mận nghiền,57000,Thanh toán khi giao hàng (COD)
+55,#100044,Chờ xử lý,5957000,5957000,3,Cà rốt,57000,Thanh toán khi giao hàng (COD)
+56,#100044,Chờ xử lý,5957000,5957000,3,Khoai lang,20000,Thanh toán khi giao hàng (COD)
+57,#100044,Chờ xử lý,5957000,5957000,2,Cà tím,57000,Thanh toán khi giao hàng (COD)
+58,#100044,Chờ xử lý,5957000,5957000,5,Ngô ngọt,57000,Thanh toán khi giao hàng (COD)
+59,#100044,Chờ xử lý,5957000,5957000,3,Rau chân,57000,Thanh toán khi giao hàng (COD)
+60,#100044,Chờ xử lý,5957000,5957000,3,Thịt Gà,67000,Thanh toán khi giao hàng (COD)
+61,#100044,Chờ xử lý,5957000,5957000,5,Thịt bê,67000,Thanh toán khi giao hàng (COD)
+62,#100044,Chờ xử lý,5957000,5957000,3,thịt bò,67000,Thanh toán khi giao hàng (COD)
+63,#100044,Chờ xử lý,5957000,5957000,3,Gà Tây,67000,Thanh toán khi giao hàng (COD)
+64,#100044,Chờ xử lý,5957000,5957000,5,Dâu tây,57000,Thanh toán khi giao hàng (COD)
+65,#100044,Chờ xử lý,5957000,5957000,3,Artichaud -,57000,Thanh toán khi giao hàng (COD)
+66,#100044,Chờ xử lý,5957000,5957000,5,củ dền,57000,Thanh toán khi giao hàng (COD)
+67,#100042,Chờ xử lý,750000,785000,1,Pop 2,750000,Thanh toán khi giao hàng (COD)
+68,#100041,Đã thanh toán,1360000,1360000,2,EM2,680000,Chuyển khoản qua ngân hàng
+69,#100040,Đã thanh toán,4410000,4410000,7,Pop 3,630000,Chuyển khoản qua ngân hàng
+70,#100039,Đã thanh toán,1420000,1445000,2,Pop 3,710000,Thanh toán khi giao hàng (COD)
+71,#100038,Chờ xử lý,4740000,4740000,5,Chuối Bio,57000,Chuyển khoản qua ngân hàng
+72,#100038,Chờ xử lý,4740000,4740000,5,Lê Bio,57000,Chuyển khoản qua ngân hàng
+73,#100038,Chờ xử lý,4740000,4740000,5,Táo Bio,57000,Chuyển khoản qua ngân hàng
+74,#100038,Chờ xử lý,4740000,4740000,3,Xoài Bio,57000,Chuyển khoản qua ngân hàng
+75,#100038,Chờ xử lý,4740000,4740000,5,Đào Bio,57000,Chuyển khoản qua ngân hàng
+76,#100038,Chờ xử lý,4740000,4740000,3,Sung nghiền,57000,Chuyển khoản qua ngân hàng
+77,#100038,Chờ xử lý,4740000,4740000,3,Cherry -,57000,Chuyển khoản qua ngân hàng
+78,#100038,Chờ xử lý,4740000,4740000,3,Phúc bồn,57000,Chuyển khoản qua ngân hàng
+79,#100038,Chờ xử lý,4740000,4740000,5,Mơ nghiền,57000,Chuyển khoản qua ngân hàng
+80,#100038,Chờ xử lý,4740000,4740000,2,Bí hạt,57000,Chuyển khoản qua ngân hàng
+81,#100038,Chờ xử lý,4740000,4740000,3,Cà rốt,57000,Chuyển khoản qua ngân hàng
+82,#100038,Chờ xử lý,4740000,4740000,3,Đỗ đũa,57000,Chuyển khoản qua ngân hàng
+83,#100038,Chờ xử lý,4740000,4740000,3,Khoai lang,57000,Chuyển khoản qua ngân hàng
+84,#100038,Chờ xử lý,4740000,4740000,3,Cà tím,57000,Chuyển khoản qua ngân hàng
+85,#100038,Chờ xử lý,4740000,4740000,3,Đậu Hà,57000,Chuyển khoản qua ngân hàng
+86,#100038,Chờ xử lý,4740000,4740000,2,Ngô ngọt,57000,Chuyển khoản qua ngân hàng
+87,#100038,Chờ xử lý,4740000,4740000,3,Rau chân,57000,Chuyển khoản qua ngân hàng
+88,#100038,Chờ xử lý,4740000,4740000,3,Thịt heo,67000,Chuyển khoản qua ngân hàng
+89,#100038,Chờ xử lý,4740000,4740000,3,Thịt Gà,67000,Chuyển khoản qua ngân hàng
+90,#100038,Chờ xử lý,4740000,4740000,3,Thịt bê,67000,Chuyển khoản qua ngân hàng
+91,#100038,Chờ xử lý,4740000,4740000,3,Cá tuyết,67000,Chuyển khoản qua ngân hàng
+92,#100038,Chờ xử lý,4740000,4740000,3,Gà Tây,67000,Chuyển khoản qua ngân hàng
+93,#100038,Chờ xử lý,4740000,4740000,3,thịt bò,67000,Chuyển khoản qua ngân hàng
+94,#100038,Chờ xử lý,4740000,4740000,3,Mận nghiền,57000,Chuyển khoản qua ngân hàng
+95,#100037,Đã thanh toán,981000,1016000,1,Pop 1,750000,Thanh toán khi giao hàng (COD)
+96,#100037,Đã thanh toán,981000,1016000,1,Lê Bio,77000,Thanh toán khi giao hàng (COD)
+97,#100037,Đã thanh toán,981000,1016000,1,Đào Bio,77000,Thanh toán khi giao hàng (COD)
+98,#100037,Đã thanh toán,981000,1016000,1,Mơ nghiền,77000,Thanh toán khi giao hàng (COD)
+99,#100037,Đã thanh toán,981000,1016000,1,Cá tuyết,0,Thanh toán khi giao hàng (COD)
+100,#100032,Đã thanh toán,7078000,7078000,1,Pop 1,650000,Chuyển khoản qua ngân hàng
+101,#100032,Đã thanh toán,7078000,7078000,2,Pop 2,650000,Chuyển khoản qua ngân hàng
+102,#100032,Đã thanh toán,7078000,7078000,3,Pop 3,630000,Chuyển khoản qua ngân hàng
+103,#100032,Đã thanh toán,7078000,7078000,1,EM3,650000,Chuyển khoản qua ngân hàng
+104,#100032,Đã thanh toán,7078000,7078000,36,Chuối Bio,57000,Chuyển khoản qua ngân hàng
+105,#100032,Đã thanh toán,7078000,7078000,8,Cá tuyết,67000,Chuyển khoản qua ngân hàng
+106,#100030,Đã thanh toán,1600000,1600000,2,EM3,800000,Thanh toán khi giao hàng (COD)
+107,#100029,Đã thanh toán,1600000,1600000,2,EM3,800000,Thanh toán khi giao hàng (COD)
+108,#100028,Chờ xử lý,22500000,22500000,6,Pop 1,770000,Chuyển khoản qua ngân hàng
+109,#100028,Chờ xử lý,22500000,22500000,6,Pop 2,750000,Chuyển khoản qua ngân hàng
+110,#100028,Chờ xử lý,22500000,22500000,12,Pop 3,730000,Chuyển khoản qua ngân hàng
+111,#100028,Chờ xử lý,22500000,22500000,6,EM3,770000,Chuyển khoản qua ngân hàng
+112,#100027,Đã thanh toán,3780000,3780000,6,Pop 3,630000,Chuyển khoản qua ngân hàng
+113,#100025,Chờ xử lý,14040000,10249200,6,Pop 1,800000,Chuyển khoản qua ngân hàng
+114,#100025,Chờ xử lý,14040000,10249200,6,Pop 2,780000,Chuyển khoản qua ngân hàng
+115,#100025,Chờ xử lý,14040000,10249200,6,Pop 3,760000,Chuyển khoản qua ngân hàng
+116,#100021,Chờ xử lý,10249200,10249200,6,Pop 1,584000,Chuyển khoản qua ngân hàng
+117,#100021,Chờ xử lý,10249200,10249200,6,Pop 2,569400,Chuyển khoản qua ngân hàng
+118,#100021,Chờ xử lý,10249200,10249200,6,Pop 3,554800,Chuyển khoản qua ngân hàng
+119,#100020,Chờ xử lý,7008000,7008000,6,EM1,584000,Chuyển khoản qua ngân hàng
+120,#100020,Chờ xử lý,7008000,7008000,6,EM2,584000,Chuyển khoản qua ngân hàng
+121,#100019,Chờ xử lý,3780000,3780000,6,EM3,630000,Chuyển khoản qua ngân hàng
+122,#100018,Chờ xử lý,3780000,3780000,6,EM3,630000,Chuyển khoản qua ngân hàng
+123,#100017,Chờ xử lý,7008000,7008000,6,EM2,584000,Chuyển khoản qua ngân hàng
+124,#100017,Chờ xử lý,7008000,7008000,6,EM3,584000,Chuyển khoản qua ngân hàng
+125,#100016,Chờ xử lý,10512000,10512000,6,EM1,584000,Chuyển khoản qua ngân hàng
+126,#100016,Chờ xử lý,10512000,10512000,6,EM2,584000,Chuyển khoản qua ngân hàng
+127,#100016,Chờ xử lý,10512000,10512000,6,EM3,584000,Chuyển khoản qua ngân hàng
+128,#100015,Chờ xử lý,8820000,8820000,4,EM2,630000,Chuyển khoản qua ngân hàng
+129,#100015,Chờ xử lý,8820000,8820000,10,EM3,630000,Chuyển khoản qua ngân hàng
+130,#100014,Chờ xử lý,490000,490000,1,Gallia 4,490000,Thanh toán khi giao hàng (COD)
+131,#100013,Chờ xử lý,703000,703000,1,Cá tuyết,87000,Thanh toán khi giao hàng (COD)
+132,#100013,Chờ xử lý,703000,703000,1,Xoài Bio,77000,Thanh toán khi giao hàng (COD)
+133,#100013,Chờ xử lý,703000,703000,1,Lê Bio,77000,Thanh toán khi giao hàng (COD)
+134,#100013,Chờ xử lý,703000,703000,1,Đào Bio,77000,Thanh toán khi giao hàng (COD)
+135,#100013,Chờ xử lý,703000,703000,1,Khoai lang,77000,Thanh toán khi giao hàng (COD)
+136,#100013,Chờ xử lý,703000,703000,1,Ngô ngọt,77000,Thanh toán khi giao hàng (COD)
+137,#100013,Chờ xử lý,703000,703000,1,Cà rốt,77000,Thanh toán khi giao hàng (COD)
+138,#100013,Chờ xử lý,703000,703000,1,Cà tím,77000,Thanh toán khi giao hàng (COD)
+139,#100013,Chờ xử lý,703000,703000,1,Bí hạt,77000,Thanh toán khi giao hàng (COD)
+140,#100012,Đã thanh toán,3150000,3150000,5,EM3,630000,Chuyển khoản qua ngân hàng
+141,#100011,Chờ xử lý,945000,756000,3,Lê Bio,75000,Chuyển khoản qua ngân hàng
+142,#100011,Chờ xử lý,945000,756000,2,Dâu tây,75000,Chuyển khoản qua ngân hàng
+143,#100011,Chờ xử lý,945000,756000,2,Táo Bio,65000,Chuyển khoản qua ngân hàng
+144,#100011,Chờ xử lý,945000,756000,2,Chuối Bio,70000,Chuyển khoản qua ngân hàng
+145,#100011,Chờ xử lý,945000,756000,2,Đào Bio,75000,Chuyển khoản qua ngân hàng
+146,#100011,Chờ xử lý,945000,756000,2,Xoài Bio,75000,Chuyển khoản qua ngân hàng
+147,#100010,Chờ xử lý,525000,420000,1,Bí hạt,75000,Chuyển khoản qua ngân hàng
+148,#100010,Chờ xử lý,525000,420000,1,Cà tím,75000,Chuyển khoản qua ngân hàng
+149,#100010,Chờ xử lý,525000,420000,1,Ngô ngọt,75000,Chuyển khoản qua ngân hàng
+150,#100010,Chờ xử lý,525000,420000,2,Súp lơ,75000,Chuyển khoản qua ngân hàng
+151,#100010,Chờ xử lý,525000,420000,2,Đỗ đũa,75000,Chuyển khoản qua ngân hàng
+152,#100009,Chờ xử lý,945000,945000,3,Lê Bio,75000,Chuyển khoản qua ngân hàng
+153,#100009,Chờ xử lý,945000,945000,2,Dâu tây,75000,Chuyển khoản qua ngân hàng
+154,#100009,Chờ xử lý,945000,945000,2,Táo Bio,65000,Chuyển khoản qua ngân hàng
+155,#100009,Chờ xử lý,945000,945000,2,Chuối Bio,70000,Chuyển khoản qua ngân hàng
+156,#100009,Chờ xử lý,945000,945000,2,Đào Bio,75000,Chuyển khoản qua ngân hàng
+157,#100009,Chờ xử lý,945000,945000,2,Xoài Bio,75000,Chuyển khoản qua ngân hàng
+158,#100008,Chờ xử lý,4900000,3920000,10,Cá tuyết,85000,Chuyển khoản qua ngân hàng
+159,#100008,Chờ xử lý,4900000,3920000,10,Thịt Gà,85000,Chuyển khoản qua ngân hàng
+160,#100008,Chờ xử lý,4900000,3920000,10,Thịt heo,85000,Chuyển khoản qua ngân hàng
+161,#100008,Chờ xử lý,4900000,3920000,10,Thịt bê,85000,Chuyển khoản qua ngân hàng
+162,#100008,Chờ xử lý,4900000,3920000,3,Cà tím,75000,Chuyển khoản qua ngân hàng
+163,#100008,Chờ xử lý,4900000,3920000,3,Ngô ngọt,75000,Chuyển khoản qua ngân hàng
+164,#100008,Chờ xử lý,4900000,3920000,3,Bí hạt,75000,Chuyển khoản qua ngân hàng
+165,#100008,Chờ xử lý,4900000,3920000,3,Súp lơ,75000,Chuyển khoản qua ngân hàng
+166,#100008,Chờ xử lý,4900000,3920000,2,Đỗ đũa,75000,Chuyển khoản qua ngân hàng
+167,#100008,Chờ xử lý,4900000,3920000,3,Cà rốt,75000,Chuyển khoản qua ngân hàng
+168,#100008,Chờ xử lý,4900000,3920000,3,Khoai lang,75000,Chuyển khoản qua ngân hàng
+169,#100007,Đã thanh toán,525000,399000,1,Bí hạt,75000,Chuyển khoản qua ngân hàng
+170,#100007,Đã thanh toán,525000,399000,1,Cà tím,75000,Chuyển khoản qua ngân hàng
+171,#100007,Đã thanh toán,525000,399000,1,Ngô ngọt,75000,Chuyển khoản qua ngân hàng
+172,#100007,Đã thanh toán,525000,399000,2,Súp lơ,75000,Chuyển khoản qua ngân hàng
+173,#100007,Đã thanh toán,525000,399000,2,Đỗ đũa,75000,Chuyển khoản qua ngân hàng
+174,#100006,Chờ xử lý,800000,800000,1,EM3,800000,Chuyển khoản qua ngân hàng
+175,#100005,Chờ xử lý,800000,800000,1,EM2,800000,Chuyển khoản qua ngân hàng
+176,#100004,Đã thanh toán,800000,800000,1,EM3,800000,Thanh toán khi giao hàng (COD)
+177,#100003,Chờ xử lý,5185000,5035000,6,EM2,800000,Thanh toán khi giao hàng (COD)
+178,#100003,Chờ xử lý,5185000,5035000,1,Cá tuyết,85000,Thanh toán khi giao hàng (COD)
+179,#100003,Chờ xử lý,5185000,5035000,1,Chuối Bio,75000,Thanh toán khi giao hàng (COD)
+180,#100003,Chờ xử lý,5185000,5035000,1,Dâu tây,75000,Thanh toán khi giao hàng (COD)
+181,#100003,Chờ xử lý,5185000,5035000,1,Táo Bio,75000,Thanh toán khi giao hàng (COD)
+182,#100003,Chờ xử lý,5185000,5035000,1,Cà rốt,75000,Thanh toán khi giao hàng (COD)
+183,#100002,Chờ xử lý,1600000,1600000,2,EM1,800000,Chuyển khoản qua ngân hàng
+184,#100001,Chờ xử lý,800000,800000,1,EM1,800000,Thanh toán khi giao hàng (COD)
+185,#100000,Chờ xử lý,800000,800000,1,EM1,800000,Thanh toán khi giao hàng (COD)
